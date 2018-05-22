@@ -1,0 +1,7 @@
+{
+"AccessKeyID" : "LTAIG0mJZXMYj02B",
+"AccessKeySecret" : "Wd4y8D952ebXPjApmM3VcCfpimwucG",
+"RoleArn" : "acs:ram::1524125403134828:role/httpcapture",
+"TokenExpireTime" : "3600",
+"PolicyFile": "/policy/write_policy.txt"
+}

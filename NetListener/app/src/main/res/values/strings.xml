@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NetListener</string>
+    <string name="title_activity_har_detail">HarDetailActivity</string>
+</resources>

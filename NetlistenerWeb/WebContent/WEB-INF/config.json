@@ -1,0 +1,7 @@
+{
+"AccessKeyID" : "LTAISZOX5P2vuDh1",
+"AccessKeySecret" : "MOZMBTwJNhRFWxQeEg0eVSb5tRcs5G",
+"RoleArn" : "acs:ram::1524125403134828:role/httpcapture",
+"TokenExpireTime" : "3600",
+"PolicyFile": "D:\\Workspace\\Eclipse\\NetlistenerWeb\\WebContent\\policy\\write_policy.txt"
+}
